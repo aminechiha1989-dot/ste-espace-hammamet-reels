@@ -1,0 +1,15 @@
+STE ESPACE HAMMAMET - Verre & Miroir
+Adresse : Av Abu Dhabi, Hammamet 8050 | WhatsApp : +216 97 565 783 | steespacehammamet@gmail.com
+Page : https://www.facebook.com/profile.php?id=61560351235543
+
+OFFRES VERIFIEES (ne rien inventer d'autre) :
+- Miroir LED importe : 160 x 60 cm, epaisseur 4 mm, eclairage LED (photos : miroir_led_*)
+- Cabines / parois de douche sur mesure, verre securit, profiles noirs (photos : douche_*)
+- Verre securit, vitrines, miroirs sur mesure, fabrication et montage
+
+THEMES A FAIRE TOURNER : 1 miroir LED | 2 douche | 3 verre sur mesure | 4 atelier / pose | 5 conseils (entretien, choix epaisseur)
+REGLES : aucun prix invente, aucune epaisseur/dimension non indiquee, pas de promesse de delai. Ajouter toute nouvelle photo dans photos/ (prefixe douche_, miroir_, verre_, atelier_).
+Fichier journal : journal.txt (une ligne par publication : date, photos, theme).
+
+Prefixes photos : miroir_ (miroirs LED), douche_ (cabines/parois de douche), verre_ (portes, garde-corps, rampes en verre), atelier_.
+NOTE : miroir_led_160x60_illustration.jpg est une illustration synthetique du miroir 160x60 cm / 4 mm. miroir_led_ovale, miroir_led_rectangulaire, verre_* sont des photos reelles de chantiers (ne pas leur attribuer de dimension ou d'epaisseur).
