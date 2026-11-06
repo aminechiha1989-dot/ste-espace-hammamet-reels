@@ -1,3 +1,4 @@
 Journal des reels programmes (date | theme | photos | statut)
 2026-11-04 | miroir ovale + porte verre + rampe escalier | miroir_led_ovale, verre_porte_separation, verre_rampe_escalier | PROGRAMME 19:00 (Metricool)
 2026-11-05 | douche + garde-corps verre | douche_noir_01, verre_garde_corps_balcon | PROGRAMME 19:00 (Metricool)
+2026-11-06 | atelier + miroir LED | miroir_led_atelier, miroir_led_rectangulaire, miroir_led_160x60_illustration | PROGRAMME 19:00 (Metricool)

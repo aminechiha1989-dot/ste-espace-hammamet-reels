@@ -1,4 +1,51 @@
-{"slides":[
- {"photo":"photos/douche_noir_01.jpg","kicker":"CABINE DE DOUCHE","title":["Paroi de douche","sur mesure"],"top_sub":"Verre sécurit, profilés noirs","bottom":["Un style moderne et épuré","Fabrication et pose à Hammamet"]},
- {"photo":"photos/verre_garde_corps_balcon.jpg","kicker":"VERRE SUR MESURE","title":["Garde-corps","en verre"],"top_sub":"Pour balcons et terrasses","bottom":["Vue dégagée, finition soignée","Devis gratuit sur WhatsApp"]}],
- "cta":{"lines":["Miroirs LED  •  Cabines de douche","Verre sécurit sur mesure"],"phone":"97 565 783","address":"Av Abu Dhabi, Hammamet"}}
+{
+ "slides": [
+  {
+   "photo": "photos/miroir_led_atelier.jpg",
+   "kicker": "DANS NOTRE ATELIER",
+   "title": [
+    "Miroir LED",
+    "fait pour vous"
+   ],
+   "top_sub": "Éclairage LED",
+   "bottom": [
+    "Miroirs sur mesure",
+    "Fabrication à Hammamet"
+   ]
+  },
+  {
+   "photo": "photos/miroir_led_rectangulaire.jpg",
+   "kicker": "MIROIR LED",
+   "title": [
+    "Lumière douce",
+    "en salle de bain"
+   ],
+   "top_sub": "Éclairage LED intégré",
+   "bottom": [
+    "Un style moderne et élégant",
+    "Fabrication et montage"
+   ]
+  },
+  {
+   "photo": "photos/miroir_led_160x60_illustration.jpg",
+   "kicker": "MIROIR LED IMPORTÉ",
+   "title": [
+    "Format 160 x 60 cm",
+    "épaisseur 4 mm"
+   ],
+   "top_sub": "Éclairage LED",
+   "bottom": [
+    "Illustration du modèle",
+    "Écrivez-nous sur WhatsApp"
+   ]
+  }
+ ],
+ "cta": {
+  "lines": [
+   "Miroirs LED  •  Cabines de douche",
+   "Verre sécurit sur mesure"
+  ],
+  "phone": "97 565 783",
+  "address": "Av Abu Dhabi, Hammamet"
+ }
+}
