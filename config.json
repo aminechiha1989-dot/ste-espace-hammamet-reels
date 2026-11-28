@@ -1,5 +1,51 @@
-{"slides":[
-{"photo":"photos/miroir_led_ovale.jpg","kicker":"MIROIR LED","title":["Miroir LED","ovale"],"top_sub":"Réalisation chez un client","bottom":["Éclairage LED intégré","Un style moderne pour votre salle de bain"]},
-{"photo":"photos/miroir_led_atelier.jpg","kicker":"NOTRE ATELIER","title":["Miroirs LED","à Hammamet"],"top_sub":"Verre & miroir sur mesure","bottom":["Fabrication et montage","Notre équipe s'en occupe"]},
-{"photo":"photos/miroir_led_160x60_illustration.jpg","kicker":"NOUVEAUTÉ","title":["Miroir LED importé","160 × 60 cm"],"top_sub":"Épaisseur 4 mm","bottom":["Éclairage LED","Écrivez PRIX en commentaire"]}
-],"cta":{"lines":["Miroirs LED  •  Cabines de douche","Verre sécurit sur mesure"],"phone":"97 565 783","address":"Av Abu Dhabi, Hammamet"}}
+{
+ "slides": [
+  {
+   "photo": "photos/verre_porte_separation.jpg",
+   "kicker": "VERRE SUR MESURE",
+   "title": [
+    "Portes et séparations",
+    "en verre"
+   ],
+   "top_sub": "Fabrication et montage",
+   "bottom": [
+    "Verre sécurit",
+    "Réalisation chez un client"
+   ]
+  },
+  {
+   "photo": "photos/verre_rampe_escalier.jpg",
+   "kicker": "VERRE SUR MESURE",
+   "title": [
+    "Rampes d'escalier",
+    "en verre"
+   ],
+   "top_sub": "Réalisation chez un client",
+   "bottom": [
+    "Fabriquée et montée par notre atelier",
+    "Demandez votre devis"
+   ]
+  },
+  {
+   "photo": "photos/douche_noir_01.jpg",
+   "kicker": "CABINES DE DOUCHE",
+   "title": [
+    "Paroi de douche",
+    "verre sécurit"
+   ],
+   "top_sub": "Profilés noirs",
+   "bottom": [
+    "Sur mesure",
+    "Écrivez PRIX en commentaire"
+   ]
+  }
+ ],
+ "cta": {
+  "lines": [
+   "Miroirs LED  •  Cabines de douche",
+   "Verre sécurit sur mesure"
+  ],
+  "phone": "97 565 783",
+  "address": "Av Abu Dhabi, Hammamet"
+ }
+}
